@@ -78,10 +78,9 @@ header a:haver {
   font-size: 25px;
 }
 #showcase li{
-  float: left;
-  display: table;
-  padding: 0 30px 0 30px;
+  float: right;
   text-decoration: none;
+  display: grid;
 }
 /* newsletter **/
 #newsletter{
